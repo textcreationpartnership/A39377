@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Abstract of some letters to an eminent learned person concerning the excellency of the Book of common-prayer, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39377</idno>
+            <idno type="STC">Wing E7</idno>
+            <idno type="STC">ESTC R23206</idno>
+            <idno type="EEBO-CITATION">12493943</idno>
+            <idno type="OCLC">ocm 12493943</idno>
+            <idno type="VID">62452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62452)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 210:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Abstract of some letters to an eminent learned person concerning the excellency of the Book of common-prayer, &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Crook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 27.</note>
+                  <note>Advertisements: p. [1] at end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62452:1" rendition="simple:additions"/>
+            <p>AN ABSTRACT OF SOME LETTERS TO AN Eminent Learned PERSON, Concerning the EXCELLENCY Of the <hi>BOOK</hi> of <hi>COMMON-PRAYER, &amp;c.</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+               <bibl>1 Cor. 8.1.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Crook,</hi> at the <hi>Green Dragon</hi> without <hi>Temple-Bar,</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:62452:2"/>
+            <pb n="1" facs="tcp:62452:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Humbly entreat you to tell me whe<g ref="char:EOLhyphen"/>ther you do not Judge it Sinful to ſtay at home on the Lords Day, ra<g ref="char:EOLhyphen"/>ther then go to Church only to hear the Common Prayer. Preaching doubtleſs is in no wiſe to be Negle<g ref="char:EOLhyphen"/>cted, but this I muſt ſay, that I cannot apprehend that that perſon has any <hi>Actings</hi> of that Faith which worketh by Love (without which <hi>All the Know<g ref="char:EOLhyphen"/>ledge</hi> we gain by Hearing Sermons does not <hi>Edify,</hi> but only <hi>Puff up</hi> the Mind) who when he comes to the Place of God's publick Worſhip, knowing that he may not expect a Sermon there, is not Con<g ref="char:EOLhyphen"/>fident that he ſhall be as much <hi>Edified</hi> by the <hi>Pray<g ref="char:EOLhyphen"/>ers,</hi> &amp; <hi>Chapters</hi> &amp;c. as he ſhould be by never ſo good a Sermon. But however, by reaſon of the Ra<g ref="char:EOLhyphen"/>rity of the <hi>Habit</hi> of True <hi>Chriſtian</hi> Faith (even in that part of the World, which we call Chriſten<g ref="char:EOLhyphen"/>dome) and the frequency of the long Interrupti<g ref="char:EOLhyphen"/>ons of its <hi>Actings,</hi> where it is, Various, &amp; freſh Ex<g ref="char:EOLhyphen"/>preſſions of Saving Truths (which are apt to Ex<g ref="char:EOLhyphen"/>cite the Minds of the <hi>
+                  <g ref="char:V">Ʋ</g>nſanctifyed</hi> by the <hi>Phantaſie</hi> to give heed to the Senſe they import) are very Neceſſary. But This is moſt evident, that People are exceeding apt to take the Senſible Workings of
+<pb n="2" facs="tcp:62452:3"/> their Soul ſtir'd up by the Novelty of Expreſſions in Sermons, &amp; the <hi>Emphatical</hi> Pronunciation of the Preacher <hi>&amp;c.</hi> for <hi>Fervency of</hi> SPIRIT; which <hi>Sen<g ref="char:EOLhyphen"/>ſible Motions</hi> I preſume you will grant are of no va<g ref="char:EOLhyphen"/>lue, otherwiſe than as they are <hi>Subſervient</hi> to <hi>Ra<g ref="char:EOLhyphen"/>tional</hi> Abhorrence of all Sin, of all <hi>Inordinate</hi> Affe<g ref="char:EOLhyphen"/>ction to <hi>Finite Objects;</hi> or to a <hi>Rational,</hi> or <hi>Spiri<g ref="char:EOLhyphen"/>tual</hi> Inclination to the ONE INFINITE GOOD through JESUS CHRIST OUR LORD, the <hi>Ef<g ref="char:EOLhyphen"/>fectual</hi> Notices of which INFINITE GOOD how is it poſſible but we ſhould be continually ſtir'd up unto in the Hearing of the <hi>Common Prayer,</hi> if we would Apprehend the <hi>Free Offers</hi> of <hi>the Spirit of Truth,</hi> which the <hi>Father of Our Lord Jeſus Chriſt</hi> makes unto us in an <hi>
+                  <g ref="char:V">Ʋ</g>nlimited</hi> Abundance in the Uſe of all ſuch Means of Grace, as He calls us un<g ref="char:EOLhyphen"/>to. Here I could Run out with much <hi>Fervor</hi> of Indignation againſt the Deſpiſers of theſe Means of Grace, &amp; Strong Guards from thoſe Accurſed Er<g ref="char:EOLhyphen"/>rors, <hi>Socinianiſm</hi> &amp;c. which whilſt I liv'd in <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> ſeem'd to me to be coming in like a <hi>Mighty</hi> Torrent upon this Diſtracted Kingdom, whilſt the Frequent Profeſſions of Belief of the TRI<g ref="char:EOLhyphen"/>NITY, <hi>Gloria patri,</hi> and the <hi>Three Creeds</hi> were caſt out of Our Churches. If it be ſay'd, what Refor<g ref="char:EOLhyphen"/>mation have we now? &amp;c. I Reply, that one Reaſon of his Kingdom's Miſcarriages, I might ſay Abo<g ref="char:EOLhyphen"/>minations, is, that ſome of thoſe that are ſyncerely Learned, &amp; Pious have not ſuch an Eſteem of our Liturgie, as they Ought to have; And hundreds of thoſe that are thought by the Vulgar to be ſo, do themſelves Deſpiſe it, or Countenance others in ſo doing.</p>
+            <pb n="3" facs="tcp:62452:3"/>
+            <p>You give me not any punctual Anſwer to my Queſtion, whether you do not Judge it <hi>Sinful</hi> to ſtay at home (though to read Good Books <hi>&amp;c.</hi>) on the Lords Day, rather than come to Church when nothing is to be heard there, but the <hi>Common Pray<g ref="char:EOLhyphen"/>er.</hi> You ſay you are more againſt ſpending the Lords Day in Idleneſs or in any thing which is worſe, than in Hearing that alone. I thank God I was never ſo Mad, as to make a queſtion of This: I have nothing to ſay to it but that I diſlike theſe words, <hi>worſe than the Common Prayer,</hi> which ſeem to inſinuate that It is not Good. I am not guilty of ſlighting Preaching (as 'tis taken in contradiſtincti<g ref="char:EOLhyphen"/>on to Reading <hi>&amp;c.</hi>) as you ſeem to Conceit.</p>
+            <p>I Affirm, that to Suit, or Proportion our Expe<g ref="char:EOLhyphen"/>ctations of Grace, in the Uſe of All Means whereun<g ref="char:EOLhyphen"/>to we are Called, to the Apprehenſions of INFI<g ref="char:EOLhyphen"/>NITE <hi>Bounty, &amp;c.</hi> is a Property of Saving Faith.</p>
+            <p>But, ſay you, GOD <hi>who appointeth ſeveral Means, doth uſually work according to them; and when he with<g ref="char:EOLhyphen"/>draweth them it is a Judgment, which it were not, if he had promis'd as much Grace without them as with them.</hi>
+            </p>
+            <p>I grant, that God who appointeth ſeveral Means, doth uſually work according to them. But I utter<g ref="char:EOLhyphen"/>ly Deny, that when he withdraweth any Particular Means of Grace it is a <hi>Judgment</hi> to Him who is in the <hi>Act</hi> of ſyncere Love to the Bleſſed Jeſus; for ſuch a one is at All Times, and in All Places Under the <hi>Gracious</hi> Influences of the INFINITY of <hi>Light</hi> and <hi>Love,</hi> directing him how (by Submiſſion to the <hi>Di<g ref="char:EOLhyphen"/>vine Will</hi> withdrawing any Particular Means of
+<pb n="4" facs="tcp:62452:4"/> Grace, and by the Renewing his Reſolutions to make a Right Uſe of all ſuch Means as God ſhall at any time call him unto, <hi>&amp;c.</hi>) He may Receive of the <hi>Fullneſs of Chriſt,</hi> in as great Meaſures, as he could have done in the Uſe of the Means withdrawn from him. The LORD give us both Underſtand<g ref="char:EOLhyphen"/>ing in all Things.</p>
+            <p>Now I have found the way by your Letter to diſcover your Thoughts concerning the <hi>Common Prayer,</hi> in your Printed Papers; I ſhall not trouble you with any more Poſt-Letters on that Subject: but ſhall ſtick to the Defence of this Great Truth, <hi>that the withdrawing of any particular Means of Grace is not a Judgment to him that is in the Act of Divine Love</hi> — Againſt which you Argue thus: <hi>That which tendeth to hinder his continuance in that Act of Love is a Judgment, but ſuch is the withdrawing of ſome Means of Grace.</hi> I Anſwer, the withdrawing <hi>&amp;c.</hi> is ſo far from being Directly, and in its own Nature <hi>that which tendeth to hinder</hi> &amp;c. that, as It is in its own Nature, <hi>viz.</hi> the work of the <hi>Infinitely Good</hi> GOD, It is the Means of Grace, and he takes it for Such that is in the Act <hi>of Divine Love,</hi> as I endeavour'd to ſhew you in my laſt. <hi>We queſtion not,</hi> ſay you, <hi>Gods bounty, but his Will: ſhew us a Promiſe that when a man is deprived of the Preaching of the Goſpel, the Communion of the Church, the Company of all good men, and caſt amongſt impious deceivers, and haere<g ref="char:EOLhyphen"/>ticks, he ſhall have his love continued, and encreas'd as much as if he had better Means.</hi> I Anſwer, This Promiſe of Our Saviour, <hi>Whatſoever ye ſhall Aske the Father in my Name he will give it you</hi> (John 16.27.)
+<pb n="5" facs="tcp:62452:4"/> would Ingage the Heart of any one in the Act of Divine Love, if God ſhould put him into ſuch a Condition, as you expreſs, to expect from GOD through Our LORD JESUS, as much <hi>Grace</hi> or <hi>Im<g ref="char:EOLhyphen"/>provement</hi> of his <hi>Divine Temper</hi> under that Diſpen<g ref="char:EOLhyphen"/>ſation of Providence, as he knows he could have grounds to Expect in the Uſe of thoſe Means of Grace which the Only Wiſe GOD has thought fit to Withdraw from him. But I am ready to ſay with you, <hi>If God ſhould take away the Bible, and Preach<g ref="char:EOLhyphen"/>ing from the Land, I would take it for a Judgment, though the Common Prayer were leſt us:</hi> neither did I ever ſay any thing to the contrary: but I have ſay'd implicitly, and ſhall upon all occaſions ſay ex<g ref="char:EOLhyphen"/>preſly, that nothing retains the Nature of a Judge<g ref="char:EOLhyphen"/>ment, or <hi>Sign of the Wrath of God,</hi> to him that is in the <hi>Act of Divine Love,</hi> which Eſſentially implies <hi>Rational</hi> Complacence in Every thing that proceeds from the <hi>Will</hi> of the <hi>Infinitely Good</hi> GOD, I do not Grant (as you may gather from what I have ſay'd) that any Particular Means of Grace are Better, or more Spiritually advantageous, than the being De<g ref="char:EOLhyphen"/>priv'd of them, will certainly be to him that Com<g ref="char:EOLhyphen"/>plies with the <hi>Divine Will</hi> in that Diſpenſation, Doing whatſoever is his Duty to do in Relation thereunto. <hi>If in ſaying we queſtion not Gods Bounty, but his Will:</hi> and <hi>Gods bounty giveth Grace according to his Liberty of Will,</hi> you imply this Propoſition (which I find aſſerted by a very Ingenious Perſon <hi>E. W.</hi> in his NO PRAEEXISTENCE <hi>p.</hi> 13.) that <hi>the Will of God ſometimes Obſtructs the effluxes of his Goodneſs;</hi> your meaning is Falſe, as I ſhall Demon<g ref="char:EOLhyphen"/>ſtrate,
+<pb n="6" facs="tcp:62452:5"/> if you ſhall call me thereto. 'Twould be Abſur'd indeed to ſay that Gods Bounty giveth Grace <hi>per modum naturae, quantum in ſe,</hi> but Gods Offers of Grace (as I have formerly expreſt my ſelf) are in an unlimited Abundance. Grace is Receiv'd by the Faithful <hi>Ad modum Recipientis:</hi> 'tis only the <hi>Meaſure,</hi> or <hi>Non-<g ref="char:V">Ʋ</g>ltra</hi> of the Recipients <hi>Expectancy</hi> that Stints its <hi>Influence.</hi>
+            </p>
+            <p>I ſhall not give you, and my ſelfe the trouble of writing unto you any of my Reflexions on the for<g ref="char:EOLhyphen"/>mer part of your Letter, ſuppoſing that whatſoever is in it Oppoſite to my Aſſertion will be fully Refuted in my Reply to your Direct Anſwer to my laſt, beginning thus: <hi>But you have a Pro<g ref="char:EOLhyphen"/>miſe that whatſoever we ask ſhall be given.</hi> Anſ. <hi>yes; whatſoever you ask according to Gods Will: but it may be his will to puniſh a cold Love, and other Sins conſiſtent with Love, and not to remove the puniſhment upon our asking; and indeed why ſhould any man ask it that is of your opinion? But you deſcribe him to be one that wholly complieth with the Divine Will, doing whatſoever is his Duty.</hi> You do not well to leave out theſe words of mine <hi>in that Diſpenſation and in Relation thereunto,</hi> for by them I ſignifyed the pray<g ref="char:EOLhyphen"/>ing conditionally for the Reſtoration of the Loſt Means of Grace, and the uſing of all poſſile means for the Recovery of them, becauſe it is our Duty ſo to do; not but that we may have ſufficient grounds to Expect from God, in caſe he Judg'd fit not to Reſtore them, the ſame Grace we ſhould Expect by the Reſtoration of them. This is a full Anſwer to thoſe words of yours: <hi>one part of his Duty is to
+<pb n="7" facs="tcp:62452:5"/> lament the Judgement of the removal of the Means, and to pray for the reſtoration (ſo that here you are ſelf-con<g ref="char:EOLhyphen"/>tradictory)</hi> and to theſe words, <hi>why ſhould any man ask it that is of your opinion?</hi> By an Act of Divine Love I underſtand ſuch an Act of the <hi>Will,</hi> or Tendency of the <hi>Heart</hi> to <hi>God,</hi> as implies an <hi>Averſion</hi> from all Finite Objects, unleſs as they ſtand in <hi>Relation</hi> to Him, or (to ſpeak more Accurately) <hi>As they are in Him.</hi> He that is in this Act has all things that <hi>are of God,</hi> actually <hi>Good</hi> unto him. And whatſo<g ref="char:EOLhyphen"/>ever he Asks being Actually in this <hi>Divine Temper</hi> of Mind (which implies that <hi>Faith</hi> which <hi>Puniſhes</hi> the Heart) is certainly According to the <hi>Will</hi> of God, which is <hi>Our Sanctification</hi> (as the Apoſtle ſpeaks) which certainly implies thus much; that God would have us to Ask nothing of him <hi>Prin<g ref="char:EOLhyphen"/>cipally</hi> and <hi>Abſolutely</hi> but that we may be HOLY as He is HOLY. And that when we ask in Syncerity for <hi>Grace</hi> or <hi>Holineſs</hi> in the Name of <hi>Jeſus,</hi> It is alwayes the <hi>Will of God</hi> to ſupply the Defect of any Particular Means of Grace. <hi>But if you mean,</hi> ſay you, <hi>that as long as a man is perfect, and never ſinneth no want of Means hurteth him,</hi> &amp;c. I mean, as I have often ſay'd, that when a man is <hi>in the Act of Divine Love</hi> (as I have de<g ref="char:EOLhyphen"/>ſcrib'd it) no want of Means hurteth him, but it does not follow but it is Our Duty, as earneſtly to Deſire any particular Means of Grace when we are Depriv'd of them, as to make uſe of them when we have them, but this Deſire, as of all things elſe but <hi>Grace,</hi> or <hi>Holineſs,</hi> is but <hi>Conditional,</hi> or with <hi>Exception</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (as the <hi>Royal Philoſopher</hi> ſpeaks) the Uſe of the Truth I Aſſert in this, and
+<pb n="8" facs="tcp:62452:6"/> my other Letters, is to cure the Souls of men of this moſt dangerous Diſeaſe, <hi>viz.</hi> the Conceit that any thing can be Directly, and in its own Nature the Hindrance of our Attainment to further Degrees of <hi>Grace,</hi> or <hi>Holineſs,</hi> ſave only the Naughtineſs of Our own Hearts. From hence alſo it is manifeſt to thoſe that underſtand that the <hi>Common Prayer</hi> is A<g ref="char:EOLhyphen"/>greeable to the Scriptures, that no man can be a <hi>Loſer</hi> (as your word is in one of your Letters) by comming to the Place of Gods Publick Worſhip to <hi>Hear</hi> thoſe Prayers when there is no Preaching there, unleſs by the Perverſeneſs of his own Heart. I do not ſpeak this to derogate from frequent Preach<g ref="char:EOLhyphen"/>ing; I know it is very Neceſſary, eſpecially for <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>ſanctifyed</hi> people. I do not apprehend my ſelf con<g ref="char:EOLhyphen"/>cern'd in what you bid me to demonſtrate: but this propoſition, Gods Will is the Same with <hi>Infi<g ref="char:EOLhyphen"/>nite Goodneſs,</hi> is a Demonſtration of the Falſeneſs of this, that Gods Will ſometimes obſtructs the Efflu<g ref="char:EOLhyphen"/>xes of his <hi>Goodneſs.</hi> I ſay further, that 'tis Eſſential to God being <hi>Infinite</hi> in <hi>Goodneſs,</hi> to Fill the Capa<g ref="char:EOLhyphen"/>cities of his Creatures According to His <hi>Infinite Wiſ<g ref="char:EOLhyphen"/>dom.</hi> Though the Almighty may not be ſay'd to give Grace <hi>per modum naturae, quantum in ſe,</hi> yet he may rightly be ſay'd to do it <hi>Secundum Naturam Bonitatis Infinitae.</hi> You do well to joyn Wiſdom with Free-will, for All that the ALMIGHTY Does is According to <hi>the Councel, i. e. the Wiſdom of his own Will,</hi> which imports the Communicativeneſs of his <hi>Goodneſs</hi> to all the Capacities of his Creatures. In Anſwer to my Saying that Gods Offers of Grace are in an unlimited Abundance, you write thus: <hi>Say you ſo? who made thee to differ? doth God do no
+<pb n="9" facs="tcp:62452:6"/> more for any but offer them Grace? is the Recipient's Expectancy none of his Gift? can God make no man better than he is? nor take the Heart out of any man, otherwiſe than by offer? is not faith whereby we accept that offer, the Gift of God? doth a clod, or ſtone ſo ſtint Gods Influence that he could not make it an An<g ref="char:EOLhyphen"/>gel, if he pleas'd? nor make any creature nobler, or o<g ref="char:EOLhyphen"/>ther than it is? Doth God give as much Grace to all the Infidel Heathen World, as to Chriſtians? or do they ſo ſtint his Influence that he can give them no more? Woe to us, if we have no more than the ge<g ref="char:EOLhyphen"/>neral Offers of Grace, and yet I believe not that this offer is unlimited, or equall to all the World.</hi> Good Sir, Be not ſo haſty, do not run on in a conceit that my words import that we make our ſelves to Differ from the <hi>
+                  <g ref="char:V">Ʋ</g>nſanctified.</hi> Doth God do no more, ſay you, for any, but offer them Grace? I anſwer; that Gods Offering of Grace is the making of men preſently Capable of Doing his Will, by the Aſſiſtance of his Good Spirit; So that All the Acts or Inclinations to Act, of <hi>Gra<g ref="char:EOLhyphen"/>cious Souls,</hi> as ſuch, are the Gift of God. The Re<g ref="char:EOLhyphen"/>cipient's Expectancy is the Gift of God, but the <hi>Non-<g ref="char:V">Ʋ</g>ltra,</hi> or <hi>Deſiciency</hi> of it, is of himſelf. <hi>Can God make no man better than he is?</hi> To this, I An<g ref="char:EOLhyphen"/>ſwer; Any mans being Better than he is, is not the Object either of Gods <hi>Volition,</hi> or <hi>Nolition:</hi> Not of the former, for then (you know) His Will would be Reſiſted: Not of the latter, for then he would be the Direct Cauſe of the Crea<g ref="char:EOLhyphen"/>tures not Doing what He hath Commanded him to Do: the onely Cauſe then that any man is not
+<pb n="10" facs="tcp:62452:7"/> what he Ought to be, is the Perverſeneſs of his own Will. As to the words following, <hi>Nor take, &amp;c.</hi> If you think ſit to continue this Diſpute, and expreſs what you mean by them in a plain way of Oppoſition to any thing that I have ſaid, I ſhall give you an Anſwer. <hi>Doth a Clod or Stone, &amp;c.</hi> I Anſwer; Any ſuch Creature may be <hi>Annihilated,</hi> and another Angel Created, but that It ſhould be made an Angel (if we ſpeak <hi>in ſenſu rigoroſo</hi>) implyes a Contradiction. Every Creature is in its own Nature <hi>Res OPTIMA,</hi> though ſome Crea<g ref="char:EOLhyphen"/>tures are Better to Us than others, becauſe they do more <hi>Exhibit</hi> to us the Notice of the <hi>Divine Good<g ref="char:EOLhyphen"/>neſs;</hi> and ſome Creatures are better to themſelves than others, becauſe they do more Enjoy It, which is ALL in them All. God knows, I do not Affect Obſcurity of Expreſſion, but ſuch Deep Things cannot be ſet forth in Vulgar Phraſe. To what you ſay of the Heathen World, I ſhall make no other Reply but this, that <hi>Gods Judgments are <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>ſearchable, and his Wayes paſt finding out.</hi>
+            </p>
+            <p>But though we cannot ſhew How Many Truths concerning his <hi>Boundleſs Goodneſs &amp;c.</hi> do com<g ref="char:EOLhyphen"/>port with what we apprehend of His <hi>Wayes</hi> in ma<g ref="char:EOLhyphen"/>ny Inſtances of His Dealings with the Sons of Men, it does not follow, that we ſhould thereupon in the leaſt Scruple at theſe Truths.</p>
+            <p>That Gods Offers of Grace are in an <hi>
+                  <g ref="char:V">Ʋ</g>nlimited</hi> Abundance (which you ſay you do not believe) I prove thus: If God cannot be the Direct Cauſe of Stinting the Influences of His <hi>Grace</hi> or <hi>Goodneſs</hi> into the Hearts of Men, Then his Offers of <hi>Grace</hi>
+               <pb n="11" facs="tcp:62452:7"/> are in an <hi>
+                  <g ref="char:V">Ʋ</g>nlimited</hi> abundance: But God cannot be the Direct Cauſe, <hi>&amp;c.</hi> The <hi>Minor</hi> is evident in this, That the <hi>Eſſence</hi> of <hi>God</hi> is <hi>Infinite Goodneſs.</hi>
+            </p>
+            <p>I ſhall in this Paper give you my Reflexions but on ſome part of your laſt Letter, wherein there are many things ſo pertinently Expreſs'd in Op<g ref="char:EOLhyphen"/>poſition to what I have written to you, that my Reflexions, or rather Animadverſions thereon, are exceeding Advantageous unto me, for the Im<g ref="char:EOLhyphen"/>provement of my moſt Satisfactory Speculations concerning the <hi>Divine Goodneſs,</hi> whoſe <hi>Infinity</hi> we muſt be ever Careful that we do not derogate from, upon any Pretences of Preſerving the <hi>Liber<g ref="char:EOLhyphen"/>ty</hi> of the <hi>Divine Will.</hi> Liberty of Will (ſo far as it implyes Perfection, muſt of neceſſity be implied in the Notion of the <hi>Infinity</hi> of <hi>Being.</hi> I declare This to be the <hi>Root</hi> of all my Apprehenſions in Theological Matters, <hi>EST <g ref="char:V">Ʋ</g>N<g ref="char:V">Ʋ</g>M SIMPLICI<g ref="char:EOLhyphen"/>TER INFINIT<g ref="char:V">Ʋ</g>M.</hi>
+            </p>
+            <p>I ſhall now betake my ſelf to the Conſideration of what you ſay in your laſt Letter. I think I need not give any other Reply to that you ſay, <hi>No man doth uſe all poſſible Means for the Recove<g ref="char:EOLhyphen"/>ry, &amp;c.</hi> but only to tell you, that by all poſſible Means, I underſtand All things which we Know to be ſuch Means, being alſo Aſſur'd that 'tis poſſi<g ref="char:EOLhyphen"/>ble for us to uſe them as ſuch. On my Explica<g ref="char:EOLhyphen"/>tion of what I underſtand by an Act of Divine Love, your Animadverſion is this: <hi>How eaſie had it been for you to have told me, whether you mean a per<g ref="char:EOLhyphen"/>fect Love, or an Imperfect culpably, and a perfect
+<pb n="12" facs="tcp:62452:8"/> Averſion, &amp;c. or a culpably Imperfect?</hi> I muſt confeſs, I have obſerv'd ſo many Learned men needleſly En<g ref="char:EOLhyphen"/>tangling themſelves in the hardeſt Knots of Con<g ref="char:EOLhyphen"/>troverſie by reaſon of theſe words, Perfection, and Imperfection Attributed to the workings of mens Hearts, that I have thought it my Duty to do what I can do to avoid the uſe of them; but ſince you Urge me to it, I ſhall Tell you that the Motion, or Tendency of the Heart, which I call an Act of <hi>Di<g ref="char:EOLhyphen"/>vine Love,</hi> does not imply, or include in its Nature any culpable Imperfection, but is as contrary to all Love of Creatures, or Finite Objects (unleſs only ſuch as ariſes from their Relation to the <hi>Firſt Being</hi>) as <hi>Light</hi> is to <hi>Darkneſs.</hi>
+            </p>
+            <p>To my ſaying that he who is in the Act of Di<g ref="char:EOLhyphen"/>vine Love has All things that <hi>are of God,</hi> Actually Good unto him, you Anſwer thus: <hi>While he is ſin<g ref="char:EOLhyphen"/>fully imperfect in this Act, he hath not the perfection which he wants, nor that complacential acceptance with God, nor that perfect freedom from caſtigatory Pe<g ref="char:EOLhyphen"/>nalities internal, or external, nor that Glory which would be good to him; and all this is of God.</hi> I An<g ref="char:EOLhyphen"/>ſwer; As to Caſtigatory Penalties, ſo far as they import nothing but what may be imputed unto God, as the Author thereof, they are <hi>Actually</hi> good to Him, <hi>viz.</hi> they <hi>All ork together for his Good,</hi> whilſt he is in the Act of <hi>Divine Love,</hi> and all his Reflexions thereon are the Rejoycing of his Heart. The Perfections he wants <hi>&amp;c. are not,</hi> but only in GOD, the <hi>Fullneſs</hi> of All that he Wants: and cer<g ref="char:EOLhyphen"/>tainly it is actually Good for him, That there is in God whatſoever is Wanting unto him. By being
+<pb n="13" facs="tcp:62452:8"/> Actually in this Divine Temper, I mean the exert<g ref="char:EOLhyphen"/>ing of an Act of Divine Love, or <hi>Adhaerence</hi> of the Heart unto God, in which <hi>Act</hi> there is nothing Culpable, though there may remain <hi>Diſpoſitions</hi> in the Heart very contrary thereunto, from which it often comes to paſs, that many of us who are in ſome meaſure <hi>Sanctified</hi> Sink deep into ſuch Impu<g ref="char:EOLhyphen"/>rities of Heart, and Mind, as we ſometimes Fancy our ſelves Elevated ſo far Above, that there's no Danger of Falling into them. But I can far more eaſily Deſcribe what it is to be <hi>Holy,</hi> i. e. <hi>to be in the Light,</hi> than Diſcourſe accurately, and Clearly of the <hi>Works of Darkneſs.</hi> He cannot Ask any thing <hi>not Agreeable</hi> to the <hi>Divine Will,</hi> who Deſires no<g ref="char:EOLhyphen"/>thing, but This, or in Subordination thereunto, that his Will may be Conformable to the <hi>Divine Will</hi> in All things. Whether he Pray Directly, and Expreſly for Things Temporal, or Spiritual, he <hi>Actuates</hi> his Heart in a way of Conformity to the <hi>Will of God,</hi> who Prays, as he Ought, <hi>viz. Ask<g ref="char:EOLhyphen"/>ing in Faith, which worketh by Love.</hi> I ſuppoſe by what I have already ſay'd, you will perceive, that in Asking for <hi>Holineſs</hi> we Virtually Ask for <hi>Juſtifi<g ref="char:EOLhyphen"/>cation,</hi> or <hi>Pardon, and the continuance of being</hi> &amp;c. And when we expreſly Ask for theſe <hi>According to the Mind of Chriſt,</hi> We <hi>Virtually</hi> Ask for <hi>Holineſs,</hi> or <hi>Purity of Heart.</hi> The Conſummation whereof is the Fullneſs of Life, and Glory. All <hi>Deſires</hi> of Ho<g ref="char:EOLhyphen"/>lineſs are Acts of Holineſs Conſider's with Reſpect to their Efficacy to make way for furhter Act, or Tendencies of Heart unto God. The <hi>Free Mercy</hi> of GOD in JESUS CHRIST OUR LORD is the
+<pb n="14" facs="tcp:62452:9"/> Root, and Principle of all that Good which grow<g ref="char:EOLhyphen"/>eth in Us, or (if you will) in which We Grow: the Senſe of which is implyed in all Motions of the Heart acceptable unto God. By <hi>Abſolutely,</hi> I mean but what we are to underſtand by <hi>Firſt</hi> in the <hi>Goſpel,</hi> where Our <hi>Saviour</hi> ſayes, <hi>Seek ye Firſt the Kingdom of God,</hi> &amp;c. <hi>i. e. Chiefly,</hi> and <hi>Principally,</hi> ſo as to Ask nothing elſe but in <hi>Sub<g ref="char:EOLhyphen"/>ordin ation</hi> thereunto, and upon Condition, if it conduce to our furtherance in the Ways of <hi>Holineſs,</hi> which Lead unto Everlaſting <hi>Glo<g ref="char:EOLhyphen"/>ry.</hi> I do ſtill moſt confidently Averr, that this is a moſt Dangerous Diſeaſe of the Soul, to Conceit that any thing can be Directly, and in its own Na<g ref="char:EOLhyphen"/>ture, the Hind'rance of Our Attainment to farther Degrees of Grace, ſave only the Naughtineſs of Our own Hearts. But, ſay you, <hi>Muſt we not care<g ref="char:EOLhyphen"/>fully avoid that which Indirectly hinders alſo?</hi> I An<g ref="char:EOLhyphen"/>ſwer, We muſt Avoid, or Set our Heart againſt no<g ref="char:EOLhyphen"/>thing but what we find to be the Will of God, Reveal'd in his Word, that we ſhould Loath, or be Averſe from. Any thing, which for ought we know, God will bring to paſs, as to the Depriving us of any particular Means of Grace, we muſt en<g ref="char:EOLhyphen"/>deavour to prevent by all wayes of Duty to God, and Man, which we Apprehend probable to prove Succeſsfull for the Prevention thereof. But we muſt have a Care that our Heart be Mov'd againſt this, which for ought we know God will effect for the Glory of His Name, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>with Ex<g ref="char:EOLhyphen"/>ception,</hi> as I ſpake in my laſt.</p>
+            <p>
+               <hi>You ſay the penal withholding of the Operations of
+<pb n="15" facs="tcp:62452:9"/> the Spirit is a Direct Hindrance, and in its own Na<g ref="char:EOLhyphen"/>ture.</hi>
+            </p>
+            <p>If it be True that whatſoever God is the Author of, can never be in any wiſe <hi>Evil</hi> to us, but only by our Wrong, or <hi>Perverſe apprehenſions</hi> of it, then I ſuppoſe you will grant that this Propoſition of yours bears no Force againſt me. And whether this be a Truth or no, I ſhall referr you to Conſi<g ref="char:EOLhyphen"/>der by taking a Review of what I have already Written of the <hi>Divine Goodneſs.</hi> And by your moſt Serious, and unprejudic'd Judgement of what I ſhall ſay hereafter in giving my Reflexions on your Animadverſions, on my ſaying that Gods Will is the Same with Infinite Goodneſs, <hi>&amp;c.</hi>
+            </p>
+            <p>The Good Lord Lift up the Light of His Coun<g ref="char:EOLhyphen"/>tenance upon Us, that we may at length attain to the Full Enjoyment of <hi>the Way, the Truth, and the Life.</hi>
+            </p>
+            <p>I ſhall here preſent you ſome more of my Appre<g ref="char:EOLhyphen"/>henſions of the IMMENSE Influence of the <hi>Di<g ref="char:EOLhyphen"/>vine Goodneſs</hi> upon All, and Every Part of the Cre<g ref="char:EOLhyphen"/>ation. I am Conſcious to my ſelf of the ſmalneſs of my Abilities to Expreſs ſuch a Truth in any way anſwerable to the Excellency, and Importance thereof. But ſome <hi>Sparklings</hi> of that Light, <hi>viz.</hi> the <hi>Notion</hi> I have of the IMMENSITY of the <hi>Di<g ref="char:EOLhyphen"/>vine Goodneſs,</hi> which from my Youth up has given me far greater Satisfactions than I ſhould ever have had in all the Learning in the World without it, ſome <hi>Sparklings,</hi> I truſt, you will perceive in theſe following Lines.</p>
+            <pb n="16" facs="tcp:62452:10"/>
+            <p>You ſay to theſe words of mine, Gods Will is the Same with infinite Goodneſs, <hi>Very true: but the Que<g ref="char:EOLhyphen"/>ſtion is, what that Goodneſs is? I ſay it is not a Will to communicate to Creatures as much Good, as he can; For then the World had been Eternal &amp;c.</hi> I Anſwer that the Goodneſs of God is Himſelf, the <hi>INFINI<g ref="char:EOLhyphen"/>TY</hi> of Goodneſs, Wiſdom, Power, of all Excel<g ref="char:EOLhyphen"/>lency, and Perfection. 'Twas not Eſſential to Him to Create, i. e. not neceſſary for the <hi>INFINITY of Being</hi> to Produce out of Himſelf theſe Finite Eſſen<g ref="char:EOLhyphen"/>ces, But they being Produc'd by His <hi>Power,</hi> ac<g ref="char:EOLhyphen"/>cording to His <hi>Wiſdom</hi> i. e. <hi>the Councell of</hi> His <hi>IN<g ref="char:EOLhyphen"/>FINITELY Good Will,</hi> 'tis Eſſential, or Neceſſary to His being <hi>INFINITE,</hi> to be <hi>ALL</hi> in them All. The <hi>Divine Power</hi> being <hi>INFINITE,</hi> ſuch Expreſ<g ref="char:EOLhyphen"/>ſions as theſe, <hi>as many Creatures as God can make</hi> &amp;c. can in no wiſe import any <hi>Reality</hi> to the <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>derſtanding.</hi> To your ſaying that <hi>All Saints, and Angels would have the ſame Degree of Glory,</hi> I Anſwer, that there is no Want <hi>in Heaven,</hi> no <hi>Abſence,</hi> or <hi>Privative</hi> Not-Being of any Degree of Glory, or <hi>Communicated Divine Goodneſs;</hi> there is nothing but <hi>Refulgency</hi> of the <hi>GLORIO<g ref="char:V">Ʋ</g>S DIVINE NAT<g ref="char:V">Ʋ</g>RE.</hi> That one Creature ſhould be better to It ſelf, and to other Creatures, is moſt Rational to conceive, it being no way Inconſiſtent with the Notion of the <hi>One Infinite Goodneſs.</hi> As for Damnation, this I ſay, So far as it imports nothing elſe but <hi>what is of God;</hi> It is in its own Nature altogether <hi>Good:</hi> It becomes <hi>Evil</hi> only to thoſe to whom the <hi>Infinity of Love is a Conſuming Fire.</hi> There's nothing <hi>Abſolutely,</hi> and in its own Nature <hi>Evil</hi> but <hi>SIN.</hi> But <hi>of all Inſtances,
+<pb n="17" facs="tcp:62452:10"/> you ſay, there's non that confutes me more than the per<g ref="char:EOLhyphen"/>miſſion of Sin.</hi> To this I Anſwer, that by Permiſ<g ref="char:EOLhyphen"/>ſion of Sin we muſt not conceive any thing of which we may ſay <hi>It is of God,</hi> but only His making ſuch Creatures, whoſe Nature implies a Poſſibility of Sinning, and the continuing them in Being after they have Sinned.</p>
+            <p>
+               <hi>There is,</hi> ſay you, <hi>an Higher thing in God, which is his Goodneſs, even his Infinite Perfection, and Love to himſelf, which is to be communicated according to his Wiſdom and Free Will, and not as a natural ne<g ref="char:EOLhyphen"/>ceſſary emanation from his Eſſence to the utmoſt of his abſolute Power.</hi> To this I Anſwer, firſt, that <hi>
+                  <g ref="char:V">Ʋ</g>tmoſt</hi> Power is in no wiſe to be ſpoken of God, whoſe Power is <hi>INFINITE.</hi> Secondly, I do conceive that your Notion here is not <hi>Contrary</hi> to mine, though it come ſomewhat ſhort of it. I think your Meaning is not Oppoſite to what I Underſtand by the Diffuſiveneſs of the <hi>Divine Goodneſs,</hi> but only to any Conceit of the Limitation of the <hi>Divine Pow<g ref="char:EOLhyphen"/>er,</hi> which no Creature is Able to Reſiſt. There can be no <hi>Impediment</hi> to It <hi>ab extra</hi> &amp;c. but I add nei<g ref="char:EOLhyphen"/>ther <hi>ab Intra,</hi> call it Negative, or Self-Limiting, or what you pleaſe. Therefore I ſay again, 'tis Eſſen<g ref="char:EOLhyphen"/>tial to <hi>Infinite Goodneſs</hi> to fill the Capacities of His Creatures <hi>&amp;c.</hi> which, I think, I ſhall clearly De<g ref="char:EOLhyphen"/>monſtrate thus: That which does not Fill all Cre<g ref="char:EOLhyphen"/>ated Capacities is not <hi>Infinite,</hi> Therefore <hi>&amp;c.</hi> But perhaps you will ſay is not a <hi>Sinner</hi> Capable of <hi>be<g ref="char:EOLhyphen"/>ing Sanctified.</hi> I Anſwer, that <hi>Sin</hi> is the Creatures making It ſelf Uncapable for the preſent of the <hi>Divine Goodneſs</hi> through a falſe Conceit that the
+<pb n="18" facs="tcp:62452:11"/> Creator is not <hi>All in All.</hi> For I hold, yea I know, and am perfectly Aſſur'd, that this Conceit is <hi>Virtu<g ref="char:EOLhyphen"/>ally,</hi> if not <hi>Formally</hi> implyed in all Sin, or Averſi<g ref="char:EOLhyphen"/>on of the Heart fro Our <hi>HOLY ONE.</hi> My uſing theſe words <hi>Secundum Naturam Bonitatis Infinitae,</hi> was not (as you ſay) <hi>to hide the Senſe,</hi> but to pre<g ref="char:EOLhyphen"/>vent your Opinion that I ſhould hold ſuch an Ab<g ref="char:EOLhyphen"/>ſurdity as this, that God Acts any thing <hi>ad ulti<g ref="char:EOLhyphen"/>mum Poſſe,</hi> which words can in no wiſe be ſpoken of God: but it ſeems I had not my Aim. For in the Cloſe of your Letter you tell me that you think my work is to Prove, that <hi>God communicateth Good Naturally to the utmoſt of his abſolute Power, as the Sun doth its influence of Light, Heat and Motion.</hi> God Forbid that I ſhould undertake to Prove that God acts like a Finite Agent, as Finite, as having any <hi>
+                  <g ref="char:V">Ʋ</g>tmoſt,</hi> or <hi>Limited Power.</hi> Whether I miſun<g ref="char:EOLhyphen"/>derſtand <hi>Goodneſs</hi> (which is another Paſſage in your Letter) I ſhall entreat you to Conſider, by what <hi>I</hi> ſhall ſay of it in my preſent Reflexions upon theſe words of yours. <hi>His Goodneſs, even his infinite Per<g ref="char:EOLhyphen"/>fection, and Love to Himſelf.</hi> This is <hi>GOD</hi> Him<g ref="char:EOLhyphen"/>ſelf, He is His own infinite Joy, and Life, and Glo<g ref="char:EOLhyphen"/>ry. He is All in all <hi>Things,</hi> and <hi>events,</hi> Sin only excepted, Enjoying Himſelf in theſe ſmall Crea<g ref="char:EOLhyphen"/>tures, which are ſo contemptible in the Sight of Men, no leſs than in the moſt Glorious of the Hea<g ref="char:EOLhyphen"/>venly Hoſts. And the more we Partake of the <hi>Di<g ref="char:EOLhyphen"/>vine Nature</hi> the more we Delight Ourſelves in all the Works both of <hi>Creation,</hi> and <hi>Providence.</hi>
+            </p>
+            <p>Here I cannot but tell you, that I Hate as the <hi>Gates of Hell</hi> the Folly and Madneſs of ſome of the
+<pb n="19" facs="tcp:62452:11"/> Adverſaries of Our <hi>Liturgie,</hi> which prompted them to ſpeak contemptuouſly (under Pretence forſooth of Zeal for the Pure Service of God) of that Excel<g ref="char:EOLhyphen"/>lent Hymn.</p>
+            <p>
+               <hi>O all ye Works of the Lord, Bleſs ye the Lord, Praiſe him, and Magnifie Him for Ever.</hi>
+            </p>
+            <p>
+               <hi>O all ye Angels of the Lord, Bleſs ye the Lord</hi> &amp;c.</p>
+            <p>
+               <hi>There is,</hi> ſay you, <hi>a Negative Limitation which is not in Gods Power, and you ſeem to grant it to be in his Wiſdom, which you truly call the Councell of his Will. But what Wiſdom doth, it doth as the Guide of the Will, and therefore as Wiſdom is the reaſon of it</hi> [I ſuppoſe you mean of a mans not being Actual<g ref="char:EOLhyphen"/>ly better than he is; for you ſay in the next Page, that our want of Goodneſs is the conſequence of a meer <hi>Non Velle</hi>] negatione Directionis, <hi>ſo the Will muſt needs be the cauſe of it</hi> negatione Volitionis. To this I Anſwer, that the cauſe that any man is not better than he is, is not that God cannot make him Better, <hi>i. e.</hi> that there is any Defect of Power in God: neither can it be rightly ſaid, that God can make him Better than he is, For I underſtand thoſe words, as you rightly conjecture <hi>in ſenſu compoſito.</hi> But perhaps you will ſay God could have made him Better than he is. To this I Anſwer, that the mak<g ref="char:EOLhyphen"/>ing him better than he is was never <hi>the Object</hi> of the <hi>Divine Power,</hi> of which there can be no other <hi>Object ad Extra,</hi> but what is judg'd fit to be brought to paſs by that <hi>Wiſdom</hi> which is Eſſenti<g ref="char:EOLhyphen"/>ally the Same with <hi>Infinite Goodneſs.</hi> This deep thing (let me preſume to tell you in all Humility) requires your Utmoſt Attention. Neither are theſe
+<pb n="20" facs="tcp:62452:12"/> Negations (if we may put a <hi>Periphraſis of Nothing</hi> in the <hi>Plural number</hi>) of Wiſdom to Direct, of Will to Execute the Cauſe, <hi>&amp;c.</hi> For of meer Negation there is No Iſſue, or Conſequence. All that you ſay, Reflecting upon my words con<g ref="char:EOLhyphen"/>cerning the Object of Gods <hi>Volition</hi> or <hi>Nolition, &amp;c.</hi> I do moſt Affectionately Approve, as im<g ref="char:EOLhyphen"/>porting very much of the ſame Truth, for want of which Dr. <hi>Twiſſe</hi> (whom you mention) ſeems to me in many Paſſages of his Controverſial Writ<g ref="char:EOLhyphen"/>ings, to <hi>Rave</hi> (and Talk indeed like a <hi>Scholar,</hi> but like one out of his Right Wits) rather than to <hi>Diſpute.</hi> But you ſeem to Faulter very much, when you come to ſay, <hi>that our want of Goodneſs is the Conſequence of meer</hi> Non Velle. For (as I ſaid but now) of a meer Negation, or Nullity, <hi>i. e.</hi> of <hi>Nothing,</hi> there is no <hi>Iſſue</hi> or Conſequence at all. I think, ſay you, that it is not true, that <hi>Volitio quà Talis efficit ad Extra, ſed tantùm quatenus per Potentiam Operatur.</hi> To this I Anſwer, <hi>Volitio Di<g ref="char:EOLhyphen"/>vina ad Extra, quà Talis, Divina inquam, Efficit ad Extra, nam Eſſentialitr includit Sapientiam, &amp; Po<g ref="char:EOLhyphen"/>tentiam Infinitam.</hi> To theſe words, <hi>Omnis Volitio non eſt Efficiens</hi> (for God willeth himſelf) much leſs <hi>omnis Nolitio,</hi> I Anſwer thus: Gods Willing of Himſelf may not properly be term'd <hi>Efficient,</hi> but it is <hi>Effectual,</hi> or to the <hi>Purpoſe;</hi> that is, which He Willeth to Be: And every Object of His <hi>Volition ad Extra,</hi> Is or Shall be, Through the Efficacy of His Power, ſet on work by the <hi>Infinite Goodneſs of the Councel of his Will.</hi> As for the Divine Nolition, this I ſay: By it we mean
+<pb n="21" facs="tcp:62452:12"/> not the Negative of Volition, but an <hi>Adverſe Act</hi> of the Will, which Eſſentially implying <hi>Infinite Wiſdom</hi> and <hi>Power,</hi> can never be <hi>Fruſtrated,</hi> but alwayes <hi>Effects</hi> the <hi>Oppoſite</hi> to that, to which it is <hi>Adverſe:</hi> So that if any man's being Actually Bet<g ref="char:EOLhyphen"/>ter than he is, were the <hi>Object</hi> of Divine Nolition it muſt needs follow that God would be the Direct Cauſe of the <hi>Oppoſite</hi> thereof, <hi>viz.</hi> that the man is Actually ſo Bad, as he is. What then is the Cauſe <hi>&amp;c?</hi> I ſay again, Onely the Preverſeneſs of <hi>his own Will:</hi> Sin only can be the Cauſe of Sin. What Cauſe than had the firſt Sin? why (as in effect I have ſay'd already) none at all. <hi>Mans own Perverſe<g ref="char:EOLhyphen"/>neſs of Will,</hi> ſay you, <hi>was not the Cauſe of his Firſt Perverting, or Sin.</hi> When we ſpeak of Perverſneſs of Will with Reference to the Firſt Sin, we mean nothing but the Firſt Sin under that Notion, not that this Perverſeneſs of Will is Really Diſtinct from the Firſt Act of the Will Perverted. I can<g ref="char:EOLhyphen"/>not tranſlate <hi>OPTIMA</hi> into any Engliſh, ſo ſuitable to my Conceptions, as theſe words <hi>F<g ref="char:V">Ʋ</g>LL of Good<g ref="char:EOLhyphen"/>neſs.</hi> I did not <hi>retire into Silence</hi> (as you ſpeak) at the Inſtance of the Heathens, but Told you this Cer<g ref="char:EOLhyphen"/>tain Truth, That we Ought not to Deny our Aſ<g ref="char:EOLhyphen"/>ſent to ſuch Evident Propoſitions, as this, that 'Tis Eſſential to <hi>Infinite Goodneſs</hi> to Fill the Capacities of all Creatures; ſo that properly, and in the ſtrict<g ref="char:EOLhyphen"/>eſt ſenſe there is no <hi>Evil,</hi> but the <hi>Averſion</hi> of the Will of the Creature from the Will of the Infinitely Good, and Wiſe, and Powerful Creator: To this, I ſay, we ought not to Deny our Aſſent, becauſe we cannot give an account of ſome Particular <hi>Wayes</hi> of
+<pb n="22" facs="tcp:62452:13"/> Providence <hi>i. e.</hi> of the <hi>Modes,</hi> or ſeveral Kinds of the Influence of <hi>Infinite Goodneſs</hi> upon ſome Parts of the Creation. <hi>Modes</hi> &amp;c. we Attribute only <hi>ab Extrinſeco</hi> to the <hi>Divine Providence,</hi> they being on<g ref="char:EOLhyphen"/>ly in the Creatures. The Reaſon, or Proof of this Conſequence, if God cannot be the Direct cauſe of Stainting <hi>&amp;c.</hi> is this, becauſe if He cannot be the Direct Cauſe of Stinting his Influence <hi>&amp;c.</hi> It is on His Part <hi>
+                  <g ref="char:V">Ʋ</g>nſtinted,</hi> that is to ſay, in an <hi>
+                  <g ref="char:V">Ʋ</g>nlimited</hi> Abundance. <hi>But,</hi> ſay you, <hi>God may</hi> Non Agere <hi>without any Stinting Cauſe: what reſtrain'd him from making the World from Eternity?</hi> To this I Anſwer, though God may <hi>Non Agere</hi> without a Cauſe in ſuch a Senſe as you Inſtance in, yet there is al<g ref="char:EOLhyphen"/>wayes ſome Cauſe of his Not-Giving Grace to any man to Do what He Commands him; not that there can be any Impediment put upon God, but that He is <hi>ab Extrinſeco</hi> Denominated Not-Giving Grace for that the Creature does not Receive it from him, the Cauſe of which Non-Reception is only the Per<g ref="char:EOLhyphen"/>verſneſs of his own Will, which indeed is nothing elſe, but his Averſion from the <hi>Divine Goodneſs.</hi>
+            </p>
+            <p>To your Objection againſt my Deſcription of Gods Offering of Grace. <hi>viz. Offering is leſs than making, and making is more than offering</hi> &amp;c. I An<g ref="char:EOLhyphen"/>ſwer thus: Every Real Offer muſt needs imply the <hi>Preſenting of the Object of Reception:</hi> wherever there is an <hi>Object of Reception,</hi> there is a <hi>Capacity</hi> or Power to Receive: There can be no Power to Receive that which is Good, but only from GOD: Therefore I do again moſt Confidently a<g ref="char:EOLhyphen"/>verr, that <hi>Gods Offering of Grace is the making of
+<pb n="23" facs="tcp:62452:13"/> men Preſently Capable of Doing His Will, or</hi> (as we may ſpeak) <hi>of receiving His Commands, By the Aſſi<g ref="char:EOLhyphen"/>ſtance of His Holy Spirit.</hi>
+            </p>
+            <p>From my Deſcription of Gods Offering of Grace there may be an Objection rais'd againſt what has been ſo Earneſtly inſiſted on, <hi>viz.</hi> that the Divine Goodneſs fills all the Capacities of His Creatures <hi>&amp;c.</hi> But the Anſwer is Eaſie. <hi>viz.</hi> that the Preſent Ca<g ref="char:EOLhyphen"/>pacity of Doing the Will of God is <hi>Fill'd,</hi> i. e. the Will of God is Done According to that Capacity, where the Capacity is not Inſtantly <hi>Nullifyed</hi> by the Creatures <hi>Sinning,</hi> or <hi>Averting</hi> itſelf from the <hi>Di<g ref="char:EOLhyphen"/>vine Goodneſs.</hi> The Senſe whereof that I may more vigorouſly Excite in the Mind of the Learned and Pious Reader I ſhall here give him my Latine Tranſlation (together with the <hi>Original</hi>) of an Ex<g ref="char:EOLhyphen"/>cellent Prayer compos'd in Engliſh Verſe by the Incomparable Mrs. <hi>K. P.</hi> The Same Senſe in two Languages ſeems to me to <hi>Condenſe</hi> the Thoughts of the Reader, and to give the greater Strength to their Influence upon His Affections.</p>
+            <floatingText type="prayer">
+               <body>
+                  <div xml:lang="eng" type="version">
+                     <l>ETernal Reaſon, Glorious Majeſty,</l>
+                     <l>
+                        <note n="*" place="bottom">In cujus Eſſentiae comparatione Eſſe noſtrum non Eſſe eſt. <hi>S. GREG. Mor.</hi> 16. <hi>c.</hi> 16.</note> Compar'd to whom what can be ſay'd to be?</l>
+                     <l>Whoſe Attributes are Thee, who art alone,</l>
+                     <l>Cauſe of all various things, and yet but One?</l>
+                     <l>Whoſe Eſſence can no more be ſearcht by man,</l>
+                     <l>Then Heav'n thy Throne, be graſped with a Span.</l>
+                     <l>Yet if this great Creation was deſign'd,</l>
+                     <l>To ſey'ral ends fitted for ev'ry kind;</l>
+                     <l>Sure Man (the Worlds <hi>Epitome</hi>) muſt be</l>
+                     <l>Form'd to the beſt, that is, to Study Tree.</l>
+                     <pb facs="tcp:62452:14"/>
+                     <l>And as our Dignity 'tis Duty too</l>
+                     <l>Which is ſumm'd up in this, to Know, and Do.</l>
+                     <l>Theſe comly Rowes of Creatures ſpell thy Name.</l>
+                     <l>Whereby we grope to find from whence they Came;</l>
+                     <l>By thy own Chain of Cauſes brought to think</l>
+                     <l>There muſt be one, then find the Higheſt Link.</l>
+                     <l>Thus all Created Excellence we ſee</l>
+                     <l>Is a Reſemblance faint, and dark of Thee.</l>
+                     <l>Such Shadowes are produc'd by the Moon-Beams</l>
+                     <l>Of Trees, or Houſes in the running Streams,</l>
+                     <l>Yet by Impreſſions born with us we find</l>
+                     <l>How good, great, juſt Thou art, how unconfin'd</l>
+                     <l>Here we are ſwallow'd up, and gladly dwell,</l>
+                     <l>Safely Adoring what we cannot Tell.</l>
+                     <l>All we know is, Thou art Supreamly Good,</l>
+                     <l>And doſt Delight to be ſo underſtood:</l>
+                     <l>A ſpicy Mountain on the Univerſe</l>
+                     <l>On which thy Richeſt Odours do diſperſe.</l>
+                     <l>But as the Sea to fill a Veſſel heaves</l>
+                     <l>More greedily than any Cask receives</l>
+                     <l>Beſieging round to find ſome gap in it,</l>
+                     <l>Which will a new Infuſion admit;</l>
+                     <l>So doſt Thou covet how Thou mayſt diſpenſe</l>
+                     <l>Upon the empty World thy Influence,</l>
+                     <l>Lov'ſt to diſburſt thyſelf in Kindneſs: thus</l>
+                     <l>The King of Kings Waits to be Gracious.</l>
+                     <l>On this account, O Lord enlarge my Heart</l>
+                     <l>To entertain what Thou would'ſt fain impart.</l>
+                     <l>Nor let that Soul by ſev'ral Titles Thine,</l>
+                     <l>And moſt Capacious form'd for things Divine,</l>
+                     <l>(So nobly meant that when it moſt doth miſs</l>
+                     <l>'Tis in miſtaken pantings after Bliſs)</l>
+                     <pb facs="tcp:62452:14"/>
+                     <l>Degrade it ſelf, in ſordid things delight,</l>
+                     <l>Or by prophaner mixtures loſe its right.</l>
+                     <l>O, that with fixt, unbroken thoughts it may</l>
+                     <l>Admire the Light which does Obſcure the Day.</l>
+                     <l>And ſince 'tis Angels Work it hath to do,</l>
+                     <l>May its Compoſure be like Angels too.</l>
+                     <l>When ſhall theſe clods of <hi>Senſe,</hi> and <hi>Phantſy</hi> break,</l>
+                     <l>That I may hear the God within me ſpeak?</l>
+                     <l>When with a ſilent, and retired Art</l>
+                     <l>Shall I with all this empty hurry part?</l>
+                     <l>To the Still Voice Above my Soul advance</l>
+                     <l>My Light, and Joy plac'd in his Countenance,</l>
+                     <l>By whoſe diſpenſe my Soul to ſuch frame brought</l>
+                     <l>May tame each treach'rous, fix each wandring Thought,</l>
+                     <l>With ſuch diſtinctions all things here behold,</l>
+                     <l>And ſo to ſeparate each droſs from Gold,</l>
+                     <l>That nothing my free Soul may Satisfie</l>
+                     <l>But t' imitate, enjoy, and Study Thee.</l>
+                  </div>
+                  <div xml:lang="lat" type="version">
+                     <l>ORatio Omnipotens, Majeſtas, Gloria Summa,</l>
+                     <l>Cui ſi <note n="*" place="bottom">In cujus Eſſentiae comparatione Eſſe noſtrum non Eſſe eſt. <hi>S. GREG. Mor.</hi> 16. <hi>c.</hi> 16.</note> Confertur Quicquam Non Eſſe probatur,</l>
+                     <l>Cui Quod ineſt, eſt Tu, Qui cunctis Rebus habere</l>
+                     <l>Eſſe ſuum Varium das <g ref="char:V">Ʋ</g>nus Semper, &amp; Idem;</l>
+                     <l>Cujus non magis Explorari Eſſentia poſſit</l>
+                     <l>Humano Ingenio, quàm Summi Culmina Coeli</l>
+                     <l>Comprendi Palmo. At fuerint ſi Cuncta per Orbem</l>
+                     <l>In certos generis diverſi condita Fines,</l>
+                     <l>Ipſum Hominem, Quò Maxima Spiret</l>
+                     <l>Naſci conſtat, id eſt, Quò ſe Tibi, MAXIME, Reddat.</l>
+                     <pb facs="tcp:62452:15"/>
+                     <l>Hoc Noſtrum Officium eſt, haec Noſtra eſt Gloria, <hi>Scire</hi>
+                     </l>
+                     <l>Et <hi>Facere</hi> uſque, Jubet quicquid Divina Voluntas.</l>
+                     <l>
+                        <hi>Condita</hi> quaeque Tuum, quaſi <hi>Sculpta Vocabula</hi> Nomen</l>
+                     <l>Deſignant: Fontem hinc perveſtigamus eorum:</l>
+                     <l>Scilicet oſtendit Cauſarum longa Catena</l>
+                     <l>Eſſe <g ref="char:V">Ʋ</g>nam Summam, à Quâ Pendent Singula, Cauſam.</l>
+                     <l>Naturae quicquid Praeclarae lumina ſpargit</l>
+                     <l>Hoc levis IMMENSI perhibetur L<g ref="char:V">Ʋ</g>MINIS <g ref="char:V">Ʋ</g>mbra.</l>
+                     <l>Quales in Fluviis Tectorum, aut Arboris <g ref="char:V">Ʋ</g>mbras</l>
+                     <l>Producit tenni ſplendeſcens Cynthia Cornu.</l>
+                     <l>
+                        <hi>Idêis</hi> tamen Innatis BONITAS Manifeſta eſt</l>
+                     <l>Illa Tua, &amp; nullis Te clauſum Finibus eſſe,</l>
+                     <l>Hîc Alto Abſorptos nos L<g ref="char:V">Ʋ</g>X IMMENSA recondit</l>
+                     <l>Tutò Admirantes Non Enarrabile Verum.</l>
+                     <l>Novimus hoc ſolum de Te, BONITATE S<g ref="char:V">Ʋ</g>PREMA</l>
+                     <l>Gaudentem, Titulo Te Velle Agnoſcier Iſto.</l>
+                     <l>Mons es <hi>Aromaticus:</hi> Jucundos Suavis Odores</l>
+                     <l>Divite profluvio totum diffundis in Orbem.</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>t coit <g ref="char:V">Ʋ</g>nda aliquod Vas impletura receptum</l>
+                     <l>In Mare, ſcrutando Rimas, quibus Influat uſque</l>
+                     <l>Proſiliens, plus quàm poſſit Vas accipere urgens:</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>t, Pater Alme, Tuâ poſſit Bonitate repleri</l>
+                     <l>Sic urges Vacuum Foecundo Numine Mundum.</l>
+                     <l>
+                        <hi>Ipſe</hi> Benignus Amas Te Diſpenſare: Favorem</l>
+                     <l>Exhibet Indignis, condonat Crimina <hi>gratis</hi>
+                     </l>
+                     <l>
+                        <hi>Rex Regum.</hi> Amplifica DE<g ref="char:V">Ʋ</g>S O Ter Maxime noſtrum</l>
+                     <l>Cor: Avidè Arripiat, quod Tu Largiris Amanter.</l>
+                     <l>O, Anima haec Titulis Tibi ſoli Debita multis</l>
+                     <l>Magna, Tuique Capax (tam purum, nobile cui ſit</l>
+                     <l>Ingenium, ut Sitiat Verum, quod Devia linquit)</l>
+                     <l>Ne ſe Deliciis Pravis illapſa, Minorem</l>
+                     <l>Quàm Quae Facta fuit, Faciat, revoluta deorſum,</l>
+                     <pb facs="tcp:62452:15"/>
+                     <l>Jus adeo Antiquum potiundi Numine perdens.</l>
+                     <l>O utinam certis immotae viribus Ipſa</l>
+                     <l>
+                        <hi>Mentis</hi> in Auguſtum ſit <hi>Sacro Rapta Stupore</hi>
+                     </l>
+                     <l>Lumen, quo victi vel <hi>lucida Tela Diei</hi>
+                     </l>
+                     <l>In Tenebras abeunt. Quam fungi Munere Oportet</l>
+                     <l>
+                        <hi>Angelico, Angelicam</hi> tandem, <hi>Pater</hi> OPTIME, reddat</l>
+                     <l>Illi Temperiem. Quando iſta Repagula, <hi>Senſus,</hi>
+                     </l>
+                     <l>Claudentes Animum, penitus Rumpentur, ut Intus</l>
+                     <l>Alloquio DE<g ref="char:V">Ʋ</g>S ipſe Suo me Perſonet? Arte</l>
+                     <l>Quando Ego Tranquillâ, Curâ ſemota Metuque</l>
+                     <l>Deſpiciam <hi>ſtolidi Bacchantia Gaudia</hi> Mundi?</l>
+                     <l>Tu Rape ſurſum Animam: <hi>Lenem</hi> ſuper Aethera <hi>Vocem</hi>
+                     </l>
+                     <l>Audiat: in<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Tuo ſemper Mea Gaudia <hi>Vultu</hi>
+                     </l>
+                     <l>Ponantur. Noſtras Te Diſponente Medullas</l>
+                     <l>Nè Superet Fallax, Agitet nec Mobile <hi>Coenum;</hi>
+                     </l>
+                     <l>Clariùs ut valeam rerum cognoſcere cauſas,</l>
+                     <l>Atque Auro cautè Scoriam diſtinguere vilem,</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>t ruptis tandem Mens evolet Ignea Vinclis,</l>
+                     <l>Et Tibi ſe jungens Aeternâ Pace Quieſcat.</l>
+                  </div>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Page 7. of the Letters, line 12. for <hi>Puniſhes</hi> read <hi>Purifies.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:62452:16"/>
+            <head>Books Newly Printed this Year, 1678. for <hi>William Crook.</hi>
+            </head>
+            <list>
+               <item>1. THe Wonders of the <hi>Peak</hi> in <hi>Darby-ſhire,</hi> commonly cal<g ref="char:EOLhyphen"/>led, <hi>the Devils Arſe of Peak.</hi>
+               </item>
+               <item>2. Reflections upon Antient and Modern Philoſophy, Moral and Natural; treating of the Philoſophers of all Countreys and Ages. 80.</item>
+               <item>3. <hi>Melpomene,</hi> or the <hi>Muſes Delight;</hi> being New Poems and Songs, written by ſeveral of the great Wits of the preſent Age.</item>
+               <item>4. <hi>Decameron Phyſologicum,</hi> or ten Dialogues of Natural Phi<g ref="char:EOLhyphen"/>loſophy. By <hi>Tho. Hobbs</hi> of <hi>Malmsbury.</hi> 80.</item>
+               <item>5. <hi>Tunbridge Wells,</hi> or a Dayes Court-ſhip; a Comedy Acted at the Dukes Theatre.</item>
+               <item>6. <hi>The Man of New-Market,</hi> a Comedy, Acted at the Theatre Royal.</item>
+               <item>7. A Diſcourſe, Whether it be lawful to take Uſe for Money; Written by Sir <hi>Rob. Filmer,</hi> and publiſhed by Sir <hi>Roger Twiſden.</hi> 120.</item>
+               <item>8. The <hi>School of Righteouſneſs:</hi> A Sermon Preached before the King by Dr. <hi>Sandcroft,</hi> Arch-biſhop of <hi>Canterbury.</hi> 40.</item>
+               <item>9. <hi>Praxis Curiae Admiralitatis Angliae.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
